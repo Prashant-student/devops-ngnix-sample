@@ -1,0 +1,11 @@
+Model Information:
+* title:	Internal Combustion Engine Moto
+* source:	https://sketchfab.com/3d-models/internal-combustion-engine-moto-ebd1dab5fd3745b58c031aecd9a4d640
+* author:	T-FLEX CAD ST (Free) (https://sketchfab.com/tflexcad)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Internal Combustion Engine Moto" (https://sketchfab.com/3d-models/internal-combustion-engine-moto-ebd1dab5fd3745b58c031aecd9a4d640) by T-FLEX CAD ST (Free) (https://sketchfab.com/tflexcad) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
