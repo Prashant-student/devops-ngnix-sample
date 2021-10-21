@@ -1,7 +1,7 @@
 import React, { createContext, useRef, useContext } from "react";
 import { useFrame, useThree } from "react-three-fiber";
 import lerp from "lerp";
-import state from "./state";
+import state from "./State";
 
 const offsetContext = createContext(0);
 
